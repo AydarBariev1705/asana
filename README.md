@@ -15,22 +15,25 @@
 ### Установка зависимостей
 
 1. Создайте виртуальное окружение:
-   bash
+   
    ```
    python -m venv .venv
    ```
 
 2. Активируйте виртуальное окружение:
    Windows:
-   bash
-   ```.venv\Scripts\activate 
+   
+   ```
+   .venv\Scripts\activate 
    ```
 
    Linux/macOS:
-   bash
-   ```source .venv/bin/activate 
+   
+   ```
+   source .venv/bin/activate 
    ```
 3. Установите необходимые зависимости:
-   bash
-   ```pip install -r requirements.txt 
+   
+   ```
+   pip install -r requirements.txt 
    ```
